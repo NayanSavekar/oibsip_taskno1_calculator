@@ -1,0 +1,36 @@
+
+body{
+    background: linear-gradient(135deg,#FFE359,#4039E6);
+    background-repeat:no-repeat;
+    height: 1000px;
+}
+h1{
+    margin:50px;
+    display: block;
+    text-align: center;
+}
+table {
+    border: 1px solid black;
+    margin: auto;
+    border-radius: 10px;
+}
+
+input[type="button"] {
+    width: 100%;
+    padding: 20px 40px;
+    background-color: rgba(26, 32, 26, 0.808);
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+}
+
+input[type="text"] {
+    padding: 20px 30px;
+    font-size: 24px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.849);
+}
